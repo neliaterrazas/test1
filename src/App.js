@@ -1,26 +1,77 @@
 
 import React from 'react';
-import Splash from './components/Splash';
+import './App.css';
+import BoxOne from '../src/components/BoxOne';
+
 
 class App extends React.Component{
-
-
-
-
   render(){
-    return (
-      <div>
-        <style global jsx>{`
-          body {
-            background-color: #red;
-          }
-        `}
-        </style>
-        <h1> hii</h1>
-        <Splash/>
-        </div>
-    );
+      return (
+          <div className="grid-container">
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+              <BoxOne/>
+          </div>
+      );
   }
 }
+
 
 export default App;
