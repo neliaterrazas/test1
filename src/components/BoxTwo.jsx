@@ -16,7 +16,6 @@ class BoxTwo extends React.Component {
                     min-width: 100%;
                     min-height: 100%;
                     border: 1px solid black;
-                    /* background-color: green; */
                 }
                 `}</style>
                 <div className="BoxTwo">
