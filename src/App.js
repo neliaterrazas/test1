@@ -5,6 +5,7 @@ import BoxOne from '../src/components/BoxOne';
 import BoxTwo from '../src/components/BoxTwo';
 
 
+
 class App extends React.Component{
   render(){
       return (
@@ -48,26 +49,27 @@ class App extends React.Component{
               <BoxOne/>
               <BoxTwo/>
               <BoxOne/>
+              <BoxTwo/>
               <BoxOne/>
+              <BoxTwo/>
               <BoxOne/>
+              <BoxTwo/>
               <BoxOne/>
+              <BoxTwo/>
               <BoxOne/>
+              <BoxTwo/>
               <BoxOne/>
+              <BoxTwo/>
               <BoxOne/>
+              <BoxTwo/>
               <BoxOne/>
+              <BoxTwo/>
               <BoxOne/>
+              <BoxTwo/>
               <BoxOne/>
+              <BoxTwo/>
               <BoxOne/>
-              <BoxOne/>
-              <BoxOne/>
-              <BoxOne/>
-              <BoxOne/>
-              <BoxOne/>
-              <BoxOne/>
-              <BoxOne/>
-              <BoxOne/>
-              <BoxOne/>
-              <BoxOne/>
+              <BoxTwo/>
           </div>
       );
   }
